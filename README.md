@@ -1,2 +1,3 @@
-# muse
-A e-commerce WebApp using Next.js, Sanity.io
+# Muse
+
+An e-commerce WebApp using Next.js, Sanity.io
