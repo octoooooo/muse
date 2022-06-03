@@ -1,0 +1,8 @@
+{
+    "name": "muse",
+    "private": true,
+    "workspaces": [
+        "packages/sanity-studio",
+        "packages/frontend-and-api"
+    ]
+}

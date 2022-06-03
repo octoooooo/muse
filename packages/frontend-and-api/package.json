@@ -1,0 +1,54 @@
+{
+  "name": "muse-frontend-and-api",
+  "version": "1.0.0",
+  "description": "An e-commerce WebApp using Next.js, Sanity.io",
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start",
+    "test": "jest",
+    "next-lint": "next lint",
+    "css-lint": "stylelint \"./src/**/*.css\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octoooooo/muse.git"
+  },
+  "keywords": [
+    "muse",
+    "e",
+    "commerce",
+    "frontend",
+    "react",
+    "sanity",
+    "io",
+    "shopping"
+  ],
+  "author": "abidi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/octoooooo/muse/issues"
+  },
+  "homepage": "https://github.com/octoooooo/muse#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "cssnano": "^5.1.10",
+    "eslint": "^8.16.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.30.0",
+    "eslint-plugin-react-hooks": "^4.5.0",
+    "eslint-plugin-tailwindcss": "^3.5.0",
+    "postcss": "^8.4.14",
+    "stylelint": "^14.8.5",
+    "stylelint-config-standard": "^25.0.0",
+    "tailwindcss": "^3.0.24"
+  },
+  "dependencies": {
+    "next": "^12.1.6",
+    "prop-types": "^15.8.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
